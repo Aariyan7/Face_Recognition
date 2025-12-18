@@ -1,0 +1,4 @@
+pip3 install opencv-python opencv_contrib-python
+pip3 install face_recognition
+pip3 install numpy 
+pip3 install git+https://github.com/ageitgey/face_recognition_models   
